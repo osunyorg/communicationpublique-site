@@ -17,8 +17,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
-- title: À propos
-  target: "/a-propos/"
+- title: L'association
+  target: "/l-association/"
   kind: page
   children: []
 
