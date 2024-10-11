@@ -11,3 +11,9 @@ params:
   logo:
     header: ''
     footer: ''
+  persons:
+    single:
+      backlinks: true
+  organizations:
+    single:
+      backlinks: true
