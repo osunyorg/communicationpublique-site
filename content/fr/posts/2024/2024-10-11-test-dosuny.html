@@ -109,14 +109,23 @@ contents:
       
     ranks:
       self: false
+      children: 2
     data:
       options:
         image: true
         main_summary: true
         summary: true
 
-      layout: grid
+      layout: cards
       pages:
+        - path: "/actualites/"
+          slug: "actualites"
+          file: "posts/_index.html"
+          external: false
+        - path: "/agenda/"
+          slug: "agenda"
+          file: "events/_index.html"
+          external: false
 
 
 
