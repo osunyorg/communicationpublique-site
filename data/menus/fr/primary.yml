@@ -20,5 +20,9 @@ items:
 - title: L'association
   target: "/l-association/"
   kind: page
-  children: []
+  children:
+  - title: Qui sommes-nous ?
+    target: "/l-association/qui-sommes-nous/"
+    kind: page
+    children: []
 
