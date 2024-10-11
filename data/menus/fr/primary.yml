@@ -9,6 +9,10 @@ items:
     target: "/l-association/qui-sommes-nous/"
     kind: page
     children: []
+  - title: Partenaires
+    target: "/l-association/partenaires/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -23,10 +27,6 @@ items:
   children: []
 - title: Organisations
   target: "/organisations/"
-  kind: page
-  children: []
-- title: Partenaires
-  target: "/partenaires/"
   kind: page
   children: []
 
