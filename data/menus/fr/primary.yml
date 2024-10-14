@@ -9,12 +9,12 @@ items:
   target: "/qui-sommes-nous/"
   kind: page
   children: []
-- title: Partenaires
-  target: "/partenaires/"
-  kind: page
-  children: []
 - title: L'équipe
   target: "/l-association/"
+  kind: page
+  children: []
+- title: Partenaires
+  target: "/partenaires/"
   kind: page
   children: []
 - title: Actualités
