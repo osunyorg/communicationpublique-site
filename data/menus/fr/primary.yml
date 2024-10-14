@@ -9,10 +9,10 @@ items:
     target: "/lassociation/qui-sommes-nous/"
     kind: page
     children: []
-- title: L'équipe
-  target: "/l-association/"
-  kind: page
-  children: []
+  - title: L'équipe
+    target: "/lassociation/l-association/"
+    kind: page
+    children: []
 - title: Partenaires
   target: "/partenaires/"
   kind: page
