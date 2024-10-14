@@ -13,7 +13,7 @@ items:
     target: "/lassociation/l-association/"
     kind: page
     children: []
-  - title: Partenaires
+  - title: Le Club des partenaires
     target: "/lassociation/partenaires/"
     kind: page
     children: []
