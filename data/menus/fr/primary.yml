@@ -1,10 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: L'association
-  target: "/lassociation/"
-  kind: page
-  children: []
 - title: L'équipe
   target: "/l-association/"
   kind: page
@@ -17,6 +13,10 @@ items:
     target: "/l-association/partenaires/"
     kind: page
     children: []
+- title: L'association
+  target: "/lassociation/"
+  kind: page
+  children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
