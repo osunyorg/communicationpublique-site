@@ -4,11 +4,11 @@ items:
 - title: L'association
   target: "/lassociation/"
   kind: page
-  children: []
-- title: Qui sommes-nous ?
-  target: "/qui-sommes-nous/"
-  kind: page
-  children: []
+  children:
+  - title: Qui sommes-nous ?
+    target: "/lassociation/qui-sommes-nous/"
+    kind: page
+    children: []
 - title: L'équipe
   target: "/l-association/"
   kind: page
