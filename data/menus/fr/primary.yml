@@ -29,4 +29,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+- title: L'association
+  target: "/lassociation/"
+  kind: page
+  children: []
 
