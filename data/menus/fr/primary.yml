@@ -5,18 +5,18 @@ items:
   target: "/lassociation/"
   kind: page
   children: []
+- title: Qui sommes-nous ?
+  target: "/qui-sommes-nous/"
+  kind: page
+  children: []
+- title: Partenaires
+  target: "/partenaires/"
+  kind: page
+  children: []
 - title: L'équipe
   target: "/l-association/"
   kind: page
-  children:
-  - title: Qui sommes-nous ?
-    target: "/l-association/qui-sommes-nous/"
-    kind: page
-    children: []
-  - title: Partenaires
-    target: "/l-association/partenaires/"
-    kind: page
-    children: []
+  children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
