@@ -9,4 +9,8 @@ items:
   target: https://www.parole-publique.fr
   kind: url
   children: []
+- title: La communauté
+  target: https://communauté.communication-publique.fr
+  kind: url
+  children: []
 
