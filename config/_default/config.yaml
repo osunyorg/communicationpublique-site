@@ -9,8 +9,11 @@ params:
   search:
     active: true
   logo:
-    header: ''
-    footer: ''
+    header: '/assets/images/logo.svg'
+    footer: '/assets/images/logo.svg'
+  menu:
+    dropdown:
+      linkToLevel1: true
   persons:
     single:
       backlinks: true
