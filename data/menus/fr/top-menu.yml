@@ -5,4 +5,8 @@ items:
   target: ''
   kind: blank
   children: []
+- title: La revue
+  target: https://www.parole-publique.fr
+  kind: url
+  children: []
 
