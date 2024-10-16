@@ -1,7 +1,10 @@
 ---
 name: David_Colon_750x440.jpg
 size: 64285
-format: square
+width: 750
+height: 440
+ratio: 1.7045454545454546
+format: landscape
 url: https://communicationpublique.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjkwMDlkZWFhLWI0ZTItNGM4MC04NWIxLTRhMTYyOTdmOWZhZiIsInB1ciI6ImJsb2JfaWQifX0=--9c809818cdc675e05ec2576cea38d606f5e018b6/David_Colon_750x440.jpg
 direct_url: https://osuny.s3.fr-par.scw.cloud/wyuf0cb3wvvu7a4m39lm91a1kcya
 
