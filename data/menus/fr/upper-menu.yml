@@ -2,8 +2,8 @@
 title: Upper menu
 items:
 - title: L'association Communication publique
-  target: ''
-  kind: blank
+  target: "/"
+  kind: url
   children: []
 - title: La revue Parole publique
   target: https://www.parolepublique.fr
