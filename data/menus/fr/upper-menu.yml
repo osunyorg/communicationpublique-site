@@ -5,7 +5,7 @@ items:
   target: "/"
   kind: url
   children: []
-- title: La revue Parole publique
+- title: La revue *Parole publique*
   target: https://www.parolepublique.fr
   kind: url
   children: []
