@@ -31,8 +31,8 @@ items:
   kind: page
   children: []
   file: content/fr/events/_index.html
-- title: Actualités
-  target: "/actualites/"
+- title: Ressources
+  target: "/ressources/"
   kind: page
   children: []
   file: content/fr/posts/_index.html
