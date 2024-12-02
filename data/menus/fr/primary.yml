@@ -40,5 +40,10 @@ items:
     kind: category
     children: []
     file: content/fr/posts_categories/actualite/_index.html
+  - title: Veille
+    target: "/ressources/veille/"
+    kind: category
+    children: []
+    file: content/fr/posts_categories/veille/_index.html
   file: content/fr/posts/_index.html
 
