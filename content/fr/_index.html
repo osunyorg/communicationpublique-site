@@ -5,7 +5,7 @@ title: >-
   Accueil
 url: "/"
 date: 2024-09-12T17:00:19+02:00
-lastmod: 2024-10-15T15:40:26+02:00
+lastmod: 2024-12-02T12:38:05+01:00
 meta:
   hugo:
     permalink: "/"
@@ -14,7 +14,7 @@ meta:
     slug: ""
   dates:
     created_at: 2024-09-12T17:00:19+02:00
-    updated_at: 2024-10-15T15:40:26+02:00
+    updated_at: 2024-12-02T12:38:05+01:00
     published_at: 2024-09-12T17:00:19+02:00
 
 breadcrumbs:
@@ -36,32 +36,119 @@ bodyclass: >-
 
 
 children:
-  - "pages/lassociation/_index.html"
-  - "posts/_index.html"
+  - "pages/a-propos/_index.html"
   - "events/_index.html"
-  - "persons/_index.html"
+  - "posts/_index.html"
+  - "pages/contact/_index.html"
   - "organizations/_index.html"
+  - "persons/_index.html"
 meta_description: >-
   
 
 summary: >-
-  
+  <p>Un espace de rencontres et de dialogue pour les communicants des institutions, collectivités, entreprises publiques et associations d'intérêt général.</p>
 
 header_text: >-
-  
+  Communication publique
 header_cta:
-  display: false
+  display: true
   label: >-
-    
-  target: ""
+    Découvrir l'association
+  target: "/a-propos/qui-sommes-nous/"
   external: false
 contents_reading_time:
-  seconds: 7
+  seconds: 28
   text: >-
     moins d'une minute
 contents:
   - kind: block
+    template: agenda
+    title: >-
+      Prochains événements
+    slug: >-
+      prochains-evenements
+    ranks:
+      self: 2
+      children: 3
+    data:
+      mode: all
+      options:
+        categories: false
+        dates: true
+        image: true
+        subtitle: true
+        summary: true
+        status: false
+
+      layout: grid
+      description: >-
+        
+
+      no_event_message: >-
+        Aucun événement à venir ou en cours.
+
+      title_link: "/agenda/"
+      events:
+        - path: "/agenda/2024-12-06-le-chaud-et-le-froid-avec-samuel-jequier-2/"
+          file: "events/2024-12-06-le-chaud-et-le-froid-avec-samuel-jequier-2.html"
+
+
+  - kind: block
+    template: chapter
+    title: >-
+      Partenariat en cours
+    slug: >-
+      partenariat-en-cours
+    ranks:
+      self: 2
+    data:
+      layout: no_background
+      text: >-
+        <p>Lorem ipsum dolor sit amet consectetur. Facilisis id adipiscing facilisi augue feugiat nascetur aliquam convallis. Orci nibh lectus quam faucibus laoreet. Eget vulputate magna tempor tempus id justo vitae. Lacus scelerisque quis nisi nam ultrices aenean purus. Urna at facilisi volutpat amet. Aliquet sed nisi vitae cursus sollicitudin sagittis felis. Erat mattis purus velit felis nulla interdum maecenas tincidunt proin. Nisl nullam laoreet ut vitae. Erat enim mauris pellentesque.</p>
+
+      notes: >-
+        
+
+      image:
+        id: "8aa200dd-7168-4664-a120-d04dc399a169"
+        file: "8aa200dd-7168-4664-a120-d04dc399a169"
+
+      alt: >-
+        
+
+      credit: >-
+        
+
+
+
+  - kind: block
     template: posts
+    title: >-
+      Ressource à la une
+    slug: >-
+      ressource-a-la-une
+    ranks:
+      self: 2
+      children: 3
+    data:
+      mode: all
+      all: true
+      layout: large
+      options:
+        author: false
+        categories: true
+        date: true
+        image: true
+        reading_time: false
+        subtitle: true
+        summary: true
+
+      posts:
+        - "2024/2024-10-15-notre-partie-de-jardin"
+
+
+  - kind: block
+    template: pages
     title: >-
       
     slug: >-
@@ -70,38 +157,48 @@ contents:
       self: 2
       children: 3
     data:
-      mode: all
-      all: true
-      layout: grid
+      page:
+        path: "/a-propos/"
+        slug: "a-propos"
+        file: "pages/a-propos/_index.html"
       options:
-        author: false
-        categories: false
-        date: false
-        image: true
-        reading_time: true
-        subtitle: true
-        summary: true
+        image: false
+        main_summary: true
+        summary: false
 
-      posts:
-        - "2024/2024-10-15-retour-en-images-de-notre-partie-de-jardin"
+      layout: list
+      pages:
+        - path: "/a-propos/qui-sommes-nous/"
+          slug: "qui-sommes-nous"
+          file: "pages/a-propos/qui-sommes-nous/_index.html"
+          external: false
+        - path: "/a-propos/gouvernance/"
+          slug: "gouvernance"
+          file: "pages/a-propos/gouvernance/_index.html"
+          external: false
+        - path: "/a-propos/club-des-partenaires/"
+          slug: "club-des-partenaires"
+          file: "pages/a-propos/club-des-partenaires/_index.html"
+          external: false
+        - path: "/a-propos/organismes-adherents/"
+          slug: "organismes-adherents"
+          file: "pages/a-propos/organismes-adherents/_index.html"
+          external: false
 
 
   - kind: block
     template: call_to_action
     title: >-
-      Communication publique présente
+      Communauté
     slug: >-
-      communication-publique-presente
+      communaute
     ranks:
       self: 2
     data:
-      layout: accent_background
+      layout: no_background
       text: >-
-        <p>L’IA au service des agents pour mieux répondre aux usagers</p>
+        <p>Lorem ipsum dolor sit amet consectetur. Sapien in eget lectus senectus purus blandit sit. Tortor sed nisi eu lacus ut scelerisque scelerisque odio sed.</p>
 
-      image:
-        id: "8cd9b942-cfb1-4f98-a419-9af740afb87c"
-        file: "8cd9b942-cfb1-4f98-a419-9af740afb87c"
 
       alt: >-
         
@@ -111,12 +208,12 @@ contents:
 
       buttons:
         - title: >-
-            S'inscrire
+            Nous rejoindre
 
           url: >-
-            https://www.dila.premier-ministre.gouv.fr/actualites/toutes-les-actualites/article/l-ia-au-service-des-agents-pour-mieux-repondre-aux-usagers
+            /contact/
 
-          target_blank: true
+          target_blank: false
 
 
 

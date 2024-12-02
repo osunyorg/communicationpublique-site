@@ -11,12 +11,12 @@ fr:
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
-    posts: /actualites/:year-:month-:day-:slug/
-    posts_categories: /actualites/:slug/
+    posts: /ressources/:year-:month-:day-:slug/
+    posts_categories: /ressources/:slug/
     organizations: /organisations/:slug/
     organizations_categories: /organisations/categories/:slug/
-    persons: /equipe/:slug/
-    persons_categories: /equipe/categories/:slug/
+    persons: /personnes/:slug/
+    persons_categories: /personnes/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
