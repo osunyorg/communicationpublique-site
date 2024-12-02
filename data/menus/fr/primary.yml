@@ -50,5 +50,10 @@ items:
     kind: category
     children: []
     file: content/fr/posts_categories/conseil-de-lecture/_index.html
+  - title: Offres d’emploi
+    target: "/ressources/offre-demploi/"
+    kind: category
+    children: []
+    file: content/fr/posts_categories/offre-demploi/_index.html
   file: content/fr/posts/_index.html
 
