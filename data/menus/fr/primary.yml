@@ -10,11 +10,11 @@ items:
     kind: page
     children: []
     file: content/fr/pages/a-propos/qui-sommes-nous/_index.html
-  - title: L'équipe
-    target: "/a-propos/l-association/"
+  - title: Gouvernance
+    target: "/a-propos/gouvernance/"
     kind: page
     children: []
-    file: content/fr/pages/a-propos/l-association/_index.html
+    file: content/fr/pages/a-propos/gouvernance/_index.html
   - title: Le Club des partenaires
     target: "/a-propos/partenaires/"
     kind: page
