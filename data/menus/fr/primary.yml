@@ -45,5 +45,10 @@ items:
     kind: category
     children: []
     file: content/fr/posts_categories/veille/_index.html
+  - title: Conseils de lecture
+    target: "/ressources/conseil-de-lecture/"
+    kind: category
+    children: []
+    file: content/fr/posts_categories/conseil-de-lecture/_index.html
   file: content/fr/posts/_index.html
 
