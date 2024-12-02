@@ -20,6 +20,11 @@ items:
     kind: page
     children: []
     file: content/fr/pages/a-propos/club-des-partenaires/_index.html
+  - title: Organismes adhérents
+    target: "/a-propos/organismes-adherents/"
+    kind: page
+    children: []
+    file: content/fr/pages/a-propos/organismes-adherents/_index.html
   file: content/fr/pages/a-propos/_index.html
 - title: Actualités
   target: "/actualites/"
