@@ -1,22 +1,5 @@
-theme: osuny
+theme: communicationpublique-theme
 enableRobotsTXT: true
 removePathAccents: true
 pagination:
   pagerSize: 30
-params:
-  summary:
-    position: hero
-  search:
-    active: true
-  logo:
-    header: '/assets/images/logo.svg'
-    footer: '/assets/images/logo.svg'
-  menu:
-    dropdown:
-      linkToLevel1: true
-  persons:
-    single:
-      backlinks: true
-  organizations:
-    single:
-      backlinks: true
