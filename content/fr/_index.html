@@ -5,7 +5,7 @@ title: >-
   Accueil
 url: "/"
 date: 2024-09-12T17:00:19+02:00
-lastmod: 2024-12-02T12:30:41+01:00
+lastmod: 2024-12-02T12:32:12+01:00
 meta:
   hugo:
     permalink: "/"
@@ -14,7 +14,7 @@ meta:
     slug: ""
   dates:
     created_at: 2024-09-12T17:00:19+02:00
-    updated_at: 2024-12-02T12:30:41+01:00
+    updated_at: 2024-12-02T12:32:12+01:00
     published_at: 2024-09-12T17:00:19+02:00
 
 breadcrumbs:
@@ -56,34 +56,40 @@ header_cta:
   target: "/a-propos/qui-sommes-nous/"
   external: false
 contents_reading_time:
-  seconds: 7
+  seconds: 10
   text: >-
     moins d'une minute
 contents:
   - kind: block
-    template: posts
+    template: agenda
     title: >-
-      
+      Prochains événements
     slug: >-
-      
+      prochains-evenements
     ranks:
       self: 2
       children: 3
     data:
       mode: all
-      all: true
-      layout: grid
       options:
-        author: false
         categories: false
-        date: false
+        dates: true
         image: true
-        reading_time: true
         subtitle: true
         summary: true
+        status: false
 
-      posts:
-        - "2024/2024-10-15-notre-partie-de-jardin"
+      layout: grid
+      description: >-
+        
+
+      no_event_message: >-
+        Aucun événement à venir ou en cours.
+
+      title_link: "/agenda/"
+      events:
+        - path: "/agenda/2024-12-06-le-chaud-et-le-froid-avec-samuel-jequier-2/"
+          file: "events/2024-12-06-le-chaud-et-le-froid-avec-samuel-jequier-2.html"
 
 
   - kind: block
@@ -121,7 +127,7 @@ contents:
 
 
   - kind: block
-    template: agenda
+    template: posts
     title: >-
       
     slug: >-
@@ -131,25 +137,19 @@ contents:
       children: 3
     data:
       mode: all
+      all: true
+      layout: grid
       options:
+        author: false
         categories: false
-        dates: true
+        date: false
         image: true
+        reading_time: true
         subtitle: true
         summary: true
-        status: false
 
-      layout: grid
-      description: >-
-        
-
-      no_event_message: >-
-        
-
-      title_link: "/agenda/"
-      events:
-        - path: "/agenda/2024-12-06-le-chaud-et-le-froid-avec-samuel-jequier-2/"
-          file: "events/2024-12-06-le-chaud-et-le-froid-avec-samuel-jequier-2.html"
+      posts:
+        - "2024/2024-10-15-notre-partie-de-jardin"
 
 
 
