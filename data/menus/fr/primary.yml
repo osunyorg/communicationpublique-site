@@ -41,8 +41,8 @@ items:
   kind: page
   children: []
   file: content/fr/organizations/_index.html
-- title: Équipe
-  target: "/equipe/"
+- title: Personnes
+  target: "/personnes/"
   kind: page
   children: []
   file: content/fr/persons/_index.html
