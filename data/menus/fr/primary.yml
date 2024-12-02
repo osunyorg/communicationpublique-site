@@ -34,6 +34,11 @@ items:
 - title: Ressources
   target: "/ressources/"
   kind: page
-  children: []
+  children:
+  - title: Actualités
+    target: "/ressources/actualite/"
+    kind: category
+    children: []
+    file: content/fr/posts_categories/actualite/_index.html
   file: content/fr/posts/_index.html
 
