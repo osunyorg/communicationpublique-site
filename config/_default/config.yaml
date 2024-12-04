@@ -1,5 +1,2 @@
 theme: communicationpublique-theme
-enableRobotsTXT: true
-removePathAccents: true
-pagination:
-  pagerSize: 30
+_merge: deep
