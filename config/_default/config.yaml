@@ -1,2 +1,4 @@
 theme: communicationpublique-theme
 _merge: deep
+params:
+  plausible: www.communication-publique.fr
