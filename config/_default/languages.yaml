@@ -8,6 +8,10 @@ fr:
   languageName: Français
   params:
     social:
+      x: >-
+        https://twitter.com/Comm_publique?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+      linkedin: >-
+        https://www.linkedin.com/company/association-communication-publique/?originalSubdomain=fr
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
