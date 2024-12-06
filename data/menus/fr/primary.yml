@@ -46,7 +46,7 @@ items:
     children: []
     file: content/fr/posts_categories/veille/_index.html
   - title: Conseils de lecture
-    target: "/ressources/conseils-de-lecture-1/"
+    target: "/ressources/conseils-de-lecture/"
     kind: page
     children: []
     file: content/fr/projects/_index.html
