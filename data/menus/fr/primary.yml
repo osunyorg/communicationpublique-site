@@ -46,10 +46,10 @@ items:
     children: []
     file: content/fr/posts_categories/veille/_index.html
   - title: Conseils de lecture
-    target: "/ressources/conseil-de-lecture/"
-    kind: category
+    target: "/ressources/conseils-de-lecture-1/"
+    kind: page
     children: []
-    file: content/fr/posts_categories/conseil-de-lecture/_index.html
+    file: content/fr/projects/_index.html
   - title: Offres d’emploi
     target: "/ressources/offre-demploi/"
     kind: category
