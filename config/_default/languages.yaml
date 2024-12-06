@@ -15,8 +15,8 @@ fr:
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
-    projects: /ressources/ouvrages/:year-:slug/
-    projects_categories: /ressources/ouvrages/:slug/
+    projects: /ressources/conseils-de-lecture-1/:year-:slug/
+    projects_categories: /ressources/conseils-de-lecture-1/:slug/
     posts: /ressources/:year-:month-:day-:slug/
     posts_categories: /ressources/:slug/
     organizations: /organisations/:slug/
