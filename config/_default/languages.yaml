@@ -7,11 +7,19 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
-      x: >-
-        https://twitter.com/Comm_publique?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
-      linkedin: >-
-        https://www.linkedin.com/company/association-communication-publique/?originalSubdomain=fr
+    contact_details:
+      social_networks:
+        linkedin:
+          label: >-
+            association-communication-publique?originalSubdomain=fr
+          value: >-
+            https://www.linkedin.com/company/association-communication-publique/?originalSubdomain=fr
+        x:
+          label: >-
+            Comm_publique?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+          value: >-
+            https://x.com/Comm_publique?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
