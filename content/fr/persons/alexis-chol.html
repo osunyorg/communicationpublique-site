@@ -10,8 +10,8 @@ aliases:
 meta:
   hugo:
     permalink: "/personnes/alexis-chol/"
+    path: "/persons/alexis-chol"
     file: "content/fr/persons/alexis-chol.html"
-    path: "alexis-chol"
     slug: "alexis-chol"
   dates:
     created_at: 2024-10-29T16:06:45+01:00
@@ -63,27 +63,29 @@ backlinks:
     pages:
     posts:
     events:
-      - path: "/agenda/2024-07-11-le-print-fait-il-de-la-resistance/"
-        file: "events/archives/2024/2024-07-11-le-print-fait-il-de-la-resistance.html"
+      - permalink: "/agenda/2024-07-11-le-print-fait-il-de-la-resistance/"
+        path: "/events/archives/2024/2024-07-11-le-print-fait-il-de-la-resistance"
+        slug: "le-print-fait-il-de-la-resistance"
+        file: "content/fr/events/archives/2024/2024-07-11-le-print-fait-il-de-la-resistance.html"
     projects:
 
 persons_categories:
-  - "communication-publique-club-des-partenaires"
-  - "communication-publique-intervenant"
+  - "communication-publique/club-des-partenaires"
+  - "communication-publique/intervenant"
 taxonomies:
   - name: "Communication publique"
     slug: "communication-publique"
     categories:
-      - name: "Club des partenaires"
-        permalink: "/personnes/categories/communication-publique/club-des-partenaires/"
-        file: "content/fr/persons_categories/communication-publique-club-des-partenaires/_index.html"
-        path: "club-des-partenaires"
-        slug: "communication-publique-club-des-partenaires"
-      - name: "Intervenant"
-        permalink: "/personnes/categories/communication-publique/intervenant/"
-        file: "content/fr/persons_categories/communication-publique-intervenant/_index.html"
-        path: "intervenant"
-        slug: "communication-publique-intervenant"
+      - permalink: "/personnes/categories/communication-publique/club-des-partenaires/"
+        path: "/persons_categories/communication-publique/club-des-partenaires"
+        slug: "communication-publique/club-des-partenaires"
+        file: "content/fr/persons_categories/communication-publique/club-des-partenaires/_index.html"
+        name: "Club des partenaires"
+      - permalink: "/personnes/categories/communication-publique/intervenant/"
+        path: "/persons_categories/communication-publique/intervenant"
+        slug: "communication-publique/intervenant"
+        file: "content/fr/persons_categories/communication-publique/intervenant/_index.html"
+        name: "Intervenant"
   - name: "Parole publique"
     slug: "parole-publique"
     categories:
