@@ -10,8 +10,8 @@ aliases:
 meta:
   hugo:
     permalink: "/personnes/sandrine-gaillard/"
+    path: "/persons/sandrine-gaillard"
     file: "content/fr/persons/sandrine-gaillard.html"
-    path: "sandrine-gaillard"
     slug: "sandrine-gaillard"
   dates:
     created_at: 2024-11-08T09:51:18+01:00
@@ -113,29 +113,31 @@ backlinks:
   current_website:
     name: "Communication Publique"
     pages:
-      - path: "/a-propos/gouvernance/"
-        file: "pages/a-propos/gouvernance/_index.html"
+      - permalink: "/a-propos/gouvernance/"
+        path: "/pages/a-propos/gouvernance"
+        slug: "gouvernance"
+        file: "content/fr/pages/a-propos/gouvernance/_index.html"
     posts:
     events:
     projects:
 
 persons_categories:
-  - "communication-publique-adherent"
-  - "communication-publique-delegation-generale"
+  - "communication-publique/adherent"
+  - "communication-publique/delegation-generale"
 taxonomies:
   - name: "Communication publique"
     slug: "communication-publique"
     categories:
-      - name: "Membre"
-        permalink: "/personnes/categories/communication-publique/adherent/"
-        file: "content/fr/persons_categories/communication-publique-adherent/_index.html"
-        path: "adherent"
-        slug: "communication-publique-adherent"
-      - name: "Délégation générale"
-        permalink: "/personnes/categories/communication-publique/delegation-generale/"
-        file: "content/fr/persons_categories/communication-publique-delegation-generale/_index.html"
-        path: "delegation-generale"
-        slug: "communication-publique-delegation-generale"
+      - permalink: "/personnes/categories/communication-publique/adherent/"
+        path: "/persons_categories/communication-publique/adherent"
+        slug: "communication-publique/adherent"
+        file: "content/fr/persons_categories/communication-publique/adherent/_index.html"
+        name: "Membre"
+      - permalink: "/personnes/categories/communication-publique/delegation-generale/"
+        path: "/persons_categories/communication-publique/delegation-generale"
+        slug: "communication-publique/delegation-generale"
+        file: "content/fr/persons_categories/communication-publique/delegation-generale/_index.html"
+        name: "Délégation générale"
   - name: "Parole publique"
     slug: "parole-publique"
     categories:

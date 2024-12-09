@@ -10,8 +10,8 @@ aliases:
 meta:
   hugo:
     permalink: "/personnes/matthieu-bejot/"
+    path: "/persons/matthieu-bejot"
     file: "content/fr/persons/matthieu-bejot.html"
-    path: "matthieu-bejot"
     slug: "matthieu-bejot"
   dates:
     created_at: 2024-10-14T11:58:36+02:00
@@ -69,29 +69,31 @@ backlinks:
   current_website:
     name: "Communication Publique"
     pages:
-      - path: "/a-propos/gouvernance/"
-        file: "pages/a-propos/gouvernance/_index.html"
+      - permalink: "/a-propos/gouvernance/"
+        path: "/pages/a-propos/gouvernance"
+        slug: "gouvernance"
+        file: "content/fr/pages/a-propos/gouvernance/_index.html"
     posts:
     events:
     projects:
 
 persons_categories:
-  - "communication-publique-adherent"
-  - "communication-publique-conseil-dadministration"
+  - "communication-publique/adherent"
+  - "communication-publique/conseil-dadministration"
 taxonomies:
   - name: "Communication publique"
     slug: "communication-publique"
     categories:
-      - name: "Membre"
-        permalink: "/personnes/categories/communication-publique/adherent/"
-        file: "content/fr/persons_categories/communication-publique-adherent/_index.html"
-        path: "adherent"
-        slug: "communication-publique-adherent"
-      - name: "Conseil d'administration"
-        permalink: "/personnes/categories/communication-publique/conseil-dadministration/"
-        file: "content/fr/persons_categories/communication-publique-conseil-dadministration/_index.html"
-        path: "conseil-dadministration"
-        slug: "communication-publique-conseil-dadministration"
+      - permalink: "/personnes/categories/communication-publique/adherent/"
+        path: "/persons_categories/communication-publique/adherent"
+        slug: "communication-publique/adherent"
+        file: "content/fr/persons_categories/communication-publique/adherent/_index.html"
+        name: "Membre"
+      - permalink: "/personnes/categories/communication-publique/conseil-dadministration/"
+        path: "/persons_categories/communication-publique/conseil-dadministration"
+        slug: "communication-publique/conseil-dadministration"
+        file: "content/fr/persons_categories/communication-publique/conseil-dadministration/_index.html"
+        name: "Conseil d'administration"
   - name: "Parole publique"
     slug: "parole-publique"
     categories:
