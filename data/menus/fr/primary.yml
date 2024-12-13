@@ -9,27 +9,33 @@ items:
     target: "/a-propos/qui-sommes-nous/"
     kind: page
     children: []
+    path: "/pages/a-propos/qui-sommes-nous"
     file: content/fr/pages/a-propos/qui-sommes-nous/_index.html
   - title: Gouvernance
     target: "/a-propos/gouvernance/"
     kind: page
     children: []
+    path: "/pages/a-propos/gouvernance"
     file: content/fr/pages/a-propos/gouvernance/_index.html
   - title: Club des partenaires
     target: "/a-propos/club-des-partenaires/"
     kind: page
     children: []
+    path: "/pages/a-propos/club-des-partenaires"
     file: content/fr/pages/a-propos/club-des-partenaires/_index.html
   - title: Organismes adhérents
     target: "/a-propos/organismes-adherents/"
     kind: page
     children: []
+    path: "/pages/a-propos/organismes-adherents"
     file: content/fr/pages/a-propos/organismes-adherents/_index.html
+  path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 - title: Agenda
   target: "/agenda/"
   kind: page
   children: []
+  path: "/events"
   file: content/fr/events/_index.html
 - title: Ressources
   target: "/ressources/"
@@ -39,21 +45,26 @@ items:
     target: "/ressources/actualite/"
     kind: category
     children: []
+    path: "/posts_categories/actualite"
     file: content/fr/posts_categories/actualite/_index.html
   - title: Veille
     target: "/ressources/veille/"
     kind: category
     children: []
+    path: "/posts_categories/veille"
     file: content/fr/posts_categories/veille/_index.html
   - title: Conseils de lecture
     target: "/ressources/conseils-de-lecture/"
     kind: page
     children: []
+    path: "/projects"
     file: content/fr/projects/_index.html
   - title: Offres d’emploi
     target: "/ressources/offre-demploi/"
     kind: category
     children: []
+    path: "/posts_categories/offre-demploi"
     file: content/fr/posts_categories/offre-demploi/_index.html
+  path: "/posts"
   file: content/fr/posts/_index.html
 
