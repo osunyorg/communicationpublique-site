@@ -4,13 +4,16 @@ items:
 - title: L'association *Communication publique*
   target: "/"
   kind: url
+  new_tab: false
   children: []
 - title: La revue *Parole publique*
   target: https://www.parolepublique.fr
   kind: url
+  new_tab: false
   children: []
 - title: La communauté *Communicants publics*
   target: https://communaute.communication-publique.fr
   kind: url
+  new_tab: true
   children: []
 
