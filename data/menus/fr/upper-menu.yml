@@ -14,6 +14,6 @@ items:
 - title: La communauté *Communicants publics*
   target: https://communaute.communication-publique.fr
   kind: url
-  new_tab: true
+  new_tab: false
   children: []
 
