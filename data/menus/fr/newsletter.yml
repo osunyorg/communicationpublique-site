@@ -4,5 +4,6 @@ items:
 - title: S'inscrire à la newsletter
   target: https://www.communication-publique.fr/
   kind: url
+  new_tab: true
   children: []
 
