@@ -78,7 +78,7 @@ items:
     file: content/fr/posts_categories/offre-demploi/_index.html
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Contacter par email
+- title: Contactez-nous
   target: mailto:todo
   kind: url
   new_tab: false
