@@ -2,7 +2,7 @@
 title: Newsletter
 items:
 - title: S'inscrire à la newsletter
-  target: https://www.communication-publique.fr/
+  target: mailto:mail
   kind: url
   new_tab: true
   children: []
