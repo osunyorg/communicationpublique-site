@@ -79,7 +79,7 @@ items:
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Contactez-nous
-  target: mailto:todo
+  target: mailto:mail@com
   kind: url
   new_tab: false
   children: []
