@@ -1,9 +1,23 @@
-// .organization
-//     .media
-//         img
-//             mix-blend-mode: multiply
-// .organizations__page
-//     .document-content
-//         .organization-logo
-//             img
-//                 mix-blend-mode: multiply
+// projects: display them as a post (image to the left)
+.projects__section
+    .projects--list
+        .project
+            .project-meta *
+                color: var(--color-text)
+            &:hover .project-title a
+                color: inherit
+            .media,
+            .media:empty
+                aspect-ratio: 384 / 320
+                margin-left: var(--grid-gutter-negative)
+                @include media-breakpoint-up(desktop)
+                    margin-right: 0
+                    width: columns(3.54)
+        @include media-breakpoint-up(desktop)
+            gap: var(--grid-gutter)
+            .project
+                align-items: flex-start
+                flex-direction: row
+                .project-content
+                    flex-direction: row
+                    justify-content: space-between
