@@ -63,7 +63,7 @@ items:
     path: "/posts_categories/veille"
     file: content/fr/posts_categories/veille/_index.html
   - title: Conseils de lecture
-    target: "/ressources/toutes-les-publications/conseils-de-lecture/"
+    target: "/ressources/conseils-de-lecture/"
     kind: page
     new_tab: false
     children: []
