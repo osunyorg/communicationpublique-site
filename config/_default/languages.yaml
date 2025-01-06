@@ -23,10 +23,10 @@ fr:
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
-    projects: /toutes-les-publications/conseils-de-lecture/:year-:slug/
-    projects_categories: /toutes-les-publications/conseils-de-lecture/:slug/
-    posts: /toutes-les-publications/:year-:month-:day-:slug/
-    posts_categories: /toutes-les-publications/:slug/
+    projects: /ressources/toutes-les-publications/conseils-de-lecture/:year-:slug/
+    projects_categories: /ressources/toutes-les-publications/conseils-de-lecture/:slug/
+    posts: /ressources/toutes-les-publications/:year-:month-:day-:slug/
+    posts_categories: /ressources/toutes-les-publications/:slug/
     organizations: /organisations/:slug/
     organizations_categories: /organisations/categories/:slug/
     persons: /personnes/:slug/
