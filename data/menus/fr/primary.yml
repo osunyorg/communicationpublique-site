@@ -44,33 +44,33 @@ items:
   path: "/events"
   file: content/fr/events/_index.html
 - title: Ressources
-  target: "/ressources/"
+  target: "/toutes-les-publications/"
   kind: page
   new_tab: false
   children:
   - title: Actualités
-    target: "/ressources/actualite/"
+    target: "/toutes-les-publications/actualite/"
     kind: category
     new_tab: false
     children: []
     path: "/posts_categories/actualite"
     file: content/fr/posts_categories/actualite/_index.html
   - title: Veille
-    target: "/ressources/veille/"
+    target: "/toutes-les-publications/veille/"
     kind: category
     new_tab: false
     children: []
     path: "/posts_categories/veille"
     file: content/fr/posts_categories/veille/_index.html
   - title: Conseils de lecture
-    target: "/ressources/conseils-de-lecture/"
+    target: "/toutes-les-publications/conseils-de-lecture/"
     kind: page
     new_tab: false
     children: []
     path: "/projects"
     file: content/fr/projects/_index.html
   - title: Offres d’emploi
-    target: "/ressources/offre-demploi/"
+    target: "/toutes-les-publications/offre-demploi/"
     kind: category
     new_tab: false
     children: []
