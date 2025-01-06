@@ -23,8 +23,8 @@ fr:
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
-    projects: /ressources/toutes-les-publications/conseils-de-lecture/:year-:slug/
-    projects_categories: /ressources/toutes-les-publications/conseils-de-lecture/:slug/
+    projects: /ressources/conseils-de-lecture/:year-:slug/
+    projects_categories: /ressources/conseils-de-lecture/:slug/
     posts: /ressources/toutes-les-publications/:year-:month-:day-:slug/
     posts_categories: /ressources/toutes-les-publications/:slug/
     organizations: /organisations/:slug/
