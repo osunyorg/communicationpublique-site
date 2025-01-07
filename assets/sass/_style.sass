@@ -1,3 +1,10 @@
+header#document-header
+    @include media-breakpoint-down(desktop)
+        nav.primary-menu
+            .nav-level-1
+                > li:nth-last-child(3)
+                    border: 0
+    
 // projects: display them as a post (image to the left)
 .projects__section
     .projects--list
