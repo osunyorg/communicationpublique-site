@@ -25,8 +25,8 @@ fr:
     events_categories: /agenda/:slug/
     projects: /ressources/conseils-de-lecture/:year-:slug/
     projects_categories: /ressources/conseils-de-lecture/:slug/
-    posts: /ressources/toutes-les-publications/:year-:month-:day-:slug/
-    posts_categories: /ressources/toutes-les-publications/:slug/
+    posts: /ressources/publications/:year-:month-:day-:slug/
+    posts_categories: /ressources/publications/:slug/
     organizations: /organisations/:slug/
     organizations_categories: /organisations/categories/:slug/
     persons: /personnes/:slug/
