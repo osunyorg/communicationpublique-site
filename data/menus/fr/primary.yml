@@ -70,12 +70,10 @@ items:
     path: "/projects"
     file: content/fr/projects/_index.html
   - title: Offres d’emploi
-    target: "/ressources/toutes-les-publications/offre-demploi/"
-    kind: category
+    target: "/ressources/offre-demploi"
+    kind: url
     new_tab: false
     children: []
-    path: "/posts_categories/offre-demploi"
-    file: content/fr/posts_categories/offre-demploi/_index.html
   path: "/pages/ressources"
   file: content/fr/pages/ressources/_index.html
 - title: Contact
