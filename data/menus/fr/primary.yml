@@ -49,12 +49,10 @@ items:
   new_tab: false
   children:
   - title: Actualités
-    target: ressources/actualite
+    target: "/ressources/actualite"
     kind: url
     new_tab: false
     children: []
-    path: "/posts_categories/actualite"
-    file: content/fr/posts_categories/actualite/_index.html
   - title: Veille
     target: "/ressources/veille"
     kind: url
