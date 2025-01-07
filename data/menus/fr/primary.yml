@@ -56,12 +56,10 @@ items:
     path: "/posts_categories/actualite"
     file: content/fr/posts_categories/actualite/_index.html
   - title: Veille
-    target: "/ressources/toutes-les-publications/veille/"
-    kind: category
+    target: "/ressources/veille"
+    kind: url
     new_tab: false
     children: []
-    path: "/posts_categories/veille"
-    file: content/fr/posts_categories/veille/_index.html
   - title: Conseils de lecture
     target: "/ressources/conseils-de-lecture/"
     kind: page
