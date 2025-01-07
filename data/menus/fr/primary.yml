@@ -49,8 +49,8 @@ items:
   new_tab: false
   children:
   - title: Actualités
-    target: "/ressources/toutes-les-publications/actualite/"
-    kind: category
+    target: ressources/actualite
+    kind: url
     new_tab: false
     children: []
     path: "/posts_categories/actualite"
