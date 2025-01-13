@@ -73,7 +73,7 @@ items:
   path: "/pages/ressources"
   file: content/fr/pages/ressources/_index.html
 - title: Contact
-  target: mailto:secretariat@communication-publique.fr
+  target: mailto:secretariat@communication-publique.fr?subject=Contact
   kind: url
   new_tab: false
   children: []
