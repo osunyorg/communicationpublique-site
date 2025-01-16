@@ -49,19 +49,15 @@ items:
   new_tab: false
   children:
   - title: Actualités
-    target: "/ressources/actualite/"
-    kind: category
+    target: "/ressources/actualite"
+    kind: url
     new_tab: false
     children: []
-    path: "/posts_categories/actualite"
-    file: content/fr/posts_categories/actualite/_index.html
   - title: Veille
-    target: "/ressources/veille/"
-    kind: category
+    target: "/ressources/veille"
+    kind: url
     new_tab: false
     children: []
-    path: "/posts_categories/veille"
-    file: content/fr/posts_categories/veille/_index.html
   - title: Conseils de lecture
     target: "/ressources/conseils-de-lecture/"
     kind: page
@@ -70,21 +66,19 @@ items:
     path: "/projects"
     file: content/fr/projects/_index.html
   - title: Offres d’emploi
-    target: "/ressources/offre-demploi/"
-    kind: category
+    target: "/ressources/offre-demploi"
+    kind: url
     new_tab: false
     children: []
-    path: "/posts_categories/offre-demploi"
-    file: content/fr/posts_categories/offre-demploi/_index.html
-  path: "/posts"
-  file: content/fr/posts/_index.html
+  path: "/pages/ressources"
+  file: content/fr/pages/ressources/_index.html
 - title: Contact
-  target: mailto:mail@com
+  target: mailto:secretariat@communication-publique.fr?subject=Contact
   kind: url
   new_tab: false
   children: []
 - title: Nous rejoindre
-  target: "/contact"
+  target: "/nous-rejoindre"
   kind: url
   new_tab: false
   children: []

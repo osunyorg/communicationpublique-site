@@ -2,7 +2,7 @@
 title: Newsletter
 items:
 - title: S'inscrire à la newsletter
-  target: mailto:mail@com
+  target: mailto:secretariat@communication-publique.fr?subject=Inscription NL
   kind: url
   new_tab: true
   children: []
