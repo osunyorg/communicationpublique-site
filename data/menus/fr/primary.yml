@@ -53,11 +53,6 @@ items:
     kind: url
     new_tab: false
     children: []
-  - title: Veille
-    target: "/ressources/veille"
-    kind: url
-    new_tab: false
-    children: []
   - title: Conseils de lecture
     target: "/ressources/conseils-de-lecture/"
     kind: page
