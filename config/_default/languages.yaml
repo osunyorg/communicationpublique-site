@@ -23,6 +23,7 @@ fr:
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
+    pages_categories: /:slug/
     projects: /ressources/conseils-de-lecture/:year-:slug/
     projects_categories: /ressources/conseils-de-lecture/:slug/
     posts: /ressources/publications/:year-:month-:day-:slug/
@@ -38,6 +39,7 @@ fr:
     events_category: events_categories
     location: locations
     organizations_category: organizations_categories
+    pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
