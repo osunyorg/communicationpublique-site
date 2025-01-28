@@ -15,11 +15,13 @@ header#document-header
                 color: inherit
             .media,
             .media:empty
-                aspect-ratio: 384 / 320
+                aspect-ratio: auto
                 margin-left: var(--grid-gutter-negative)
                 @include media-breakpoint-up(desktop)
                     margin-right: 0
                     width: columns(3.54)
+            + .project
+                margin-top: var(--grid-gutter)
         @include media-breakpoint-up(desktop)
             gap: var(--grid-gutter)
             .project
@@ -28,3 +30,16 @@ header#document-header
                 .project-content
                     flex-direction: row
                     justify-content: space-between
+.projects__page
+    .hero 
+        .content 
+            hgroup.has-lead > p
+                @include body-text
+        @include media-breakpoint-up(desktop)
+            .hero-text
+                width: columns(7)
+            figure
+                width: columns(4)
+        .dropdown-share
+            right: unset
+            left: 0

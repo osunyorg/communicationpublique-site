@@ -1,0 +1,6 @@
+projects:
+  next: Lecture suivants
+  next_aria: Lecture suivante “{{ .Title }}”
+  none: Aucun conseil de lecture
+  previous: Lecture précédente
+  previous_aria: Lecture précédente “{{ .Title }}”

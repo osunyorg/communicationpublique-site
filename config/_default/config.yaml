@@ -2,3 +2,8 @@ theme: communicationpublique-theme
 _merge: deep
 params:
   plausible: www.communication-publique.fr
+  projects:
+    index:
+      truncate_description: 0
+      options:
+        year: false
