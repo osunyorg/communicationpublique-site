@@ -32,6 +32,7 @@ fr:
     organizations_categories: /organisations/categories/:slug/
     persons: /personnes/:slug/
     persons_categories: /personnes/categories/:slug/
+    authors: /personnes/:slug/publications/
   taxonomies:
     administrator: administrators
     author: authors
