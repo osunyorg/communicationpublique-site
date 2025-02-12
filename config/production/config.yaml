@@ -2,6 +2,11 @@
 
 baseURL: https://www.communication-publique.fr
 
+## OSUNY
+osuny:
+  website:
+    id: 85a4d29c-141b-43a2-8672-37c0ca129850
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
