@@ -21,20 +21,6 @@ fr:
           value: >-
             https://x.com/Comm_publique?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
 
-  permalinks:
-    events: /agenda/:year/:slug/
-    exhibitions: /expositions/:year-:month-:day-:slug/
-    events_categories: /agenda/:slug/
-    pages_categories: /:slug/
-    projects: /ressources/conseils-de-lecture/:year-:slug/
-    projects_categories: /ressources/conseils-de-lecture/:slug/
-    posts: /ressources/publications/:year-:month-:day-:slug/
-    posts_categories: /ressources/publications/:slug/
-    organizations: /organisations/:slug/
-    organizations_categories: /organisations/categories/:slug/
-    persons: /personnes/:slug/
-    persons_categories: /personnes/categories/:slug/
-    authors: /personnes/:slug/publications/
   taxonomies:
     administrator: administrators
     author: authors
