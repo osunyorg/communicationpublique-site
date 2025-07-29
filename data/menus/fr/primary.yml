@@ -60,6 +60,11 @@ items:
     children: []
     path: "/projects"
     file: content/fr/projects/_index.html
+  - title: Parole publique, La série
+    target: "/ressources/Parole_publique_la_serie"
+    kind: url
+    new_tab: false
+    children: []
   - title: Offres d’emploi
     target: "/ressources/offre-demploi"
     kind: url
