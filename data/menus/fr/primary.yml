@@ -65,7 +65,7 @@ items:
     kind: url
     new_tab: false
     children: []
-  - title: Parole publique, La série
+  - title: Parole publique, la série
     target: "/ressources/parole-publique-la-serie/"
     kind: page
     new_tab: false
