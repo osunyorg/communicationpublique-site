@@ -2,86 +2,120 @@
 title: Menu principal
 items:
 - title: À propos
+  slug: a-propos
   target: "/a-propos/"
   kind: page
   new_tab: false
   children:
   - title: Qui sommes-nous ?
+    slug: qui-sommes-nous
     target: "/a-propos/qui-sommes-nous/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/a-propos/qui-sommes-nous"
     file: content/fr/pages/a-propos/qui-sommes-nous/_index.html
   - title: Gouvernance
+    slug: gouvernance
     target: "/a-propos/gouvernance/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/a-propos/gouvernance"
     file: content/fr/pages/a-propos/gouvernance/_index.html
   - title: Club des partenaires
+    slug: club-des-partenaires
     target: "/a-propos/club-des-partenaires/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/a-propos/club-des-partenaires"
     file: content/fr/pages/a-propos/club-des-partenaires/_index.html
   - title: Organismes adhérents
+    slug: organismes-adherents
     target: "/a-propos/organismes-adherents/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/a-propos/organismes-adherents"
     file: content/fr/pages/a-propos/organismes-adherents/_index.html
+  descendants_targets:
+  - "/a-propos/club-des-partenaires/"
+  - "/a-propos/gouvernance/"
+  - "/a-propos/organismes-adherents/"
+  - "/a-propos/qui-sommes-nous/"
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 - title: Agenda
+  slug: agenda
   target: "/agenda/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/fr/events/_index.html
 - title: Ressources
+  slug: ressources
   target: "/ressources/"
   kind: page
   new_tab: false
   children:
   - title: Actualités
+    slug: actualites
     target: "/ressources/actualite"
     kind: url
     new_tab: false
     children: []
+    descendants_targets: []
   - title: Conseils de lecture
+    slug: conseils-de-lecture
     target: "/ressources/conseils-de-lecture/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/projects"
     file: content/fr/projects/_index.html
   - title: Offres d’emploi
+    slug: offres-d-emploi
     target: "/ressources/offre-demploi"
     kind: url
     new_tab: false
     children: []
+    descendants_targets: []
   - title: Vidéos
+    slug: videos
     target: "/ressources/publications/video/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/video"
     file: content/fr/posts_categories/video/_index.html
+  descendants_targets:
+  - "/ressources/actualite"
+  - "/ressources/conseils-de-lecture/"
+  - "/ressources/offre-demploi"
+  - "/ressources/publications/video/"
   path: "/pages/ressources"
   file: content/fr/pages/ressources/_index.html
 - title: Contact
+  slug: contact
   target: mailto:secretariat@communication-publique.fr?subject=Contact
   kind: url
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Nous rejoindre
+  slug: nous-rejoindre
   target: "/nous-rejoindre"
   kind: url
   new_tab: false
   children: []
+  descendants_targets: []
 
