@@ -7,6 +7,11 @@ osuny:
   website:
     id: 85a4d29c-141b-43a2-8672-37c0ca129850
 
+## PARAMS
+params:
+  _merge: deep
+  plausible: "communication-publique.fr"
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
