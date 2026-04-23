@@ -13,3 +13,816 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/ressources/2024-12-20-retour-en-images-sur-les-entretiens-2024-de-communication-publique/"
+to = "/ressources/publications/2024-12-20-retour-en-images-sur-les-entretiens-2024-de-communication-publique/"
+
+[[redirects]]
+from = "/equipe/laure-salvaing/"
+to = "/personnes/laure-salvaing/"
+
+[[redirects]]
+from = "/agenda/2025-04-11-le-chaud-et-le-froid-avec-emmanuel-riviere-3/"
+to = "/agenda/2025/le-chaud-et-le-froid-avec-emmanuel-riviere-3/"
+
+[[redirects]]
+from = "/agenda/2025-03-21-meteo-france-un-service-public-au-coeur-de-notre-quotidien/"
+to = "/agenda/2025/meteo-france-un-service-public-au-coeur-de-notre-quotidien/"
+
+[[redirects]]
+from = "/equipe/jacques-attali/"
+to = "/personnes/jacques-attali/"
+
+[[redirects]]
+from = "/personnes/categories/conseil-dadministration/"
+to = "/personnes/categories/communication-publique/conseil-dadministration/"
+
+[[redirects]]
+from = "/ressources/publications/2025-05-06-retour-sur-la-matinale-meteo-france-un-service-public-au-coeur-de-notre-quotidien-1-1/"
+to = "/ressources/publications/2025-05-06-retour-sur-la-matinale-dircoms-publics-reseaux-sociaux/"
+
+[[redirects]]
+from = "/equipe/fabrice-hermel/"
+to = "/personnes/fabrice-hermel/"
+
+[[redirects]]
+from = "/lassociation/l-association/"
+to = "/a-propos/gouvernance/"
+
+[[redirects]]
+from = "/agenda/2023-10-03-visite-du-village-olympique/"
+to = "/agenda/2023/visite-du-village-olympique/"
+
+[[redirects]]
+from = "/agenda/2023-10-06-le-chaud-et-le-froid-avec-robert-zarader/"
+to = "/agenda/2023/le-chaud-et-le-froid-avec-robert-zarader/"
+
+[[redirects]]
+from = "/equipe/camelia-peter/"
+to = "/personnes/camelia-peter/"
+
+[[redirects]]
+from = "/equipe/christopher-baldelli/"
+to = "/personnes/christopher-baldelli/"
+
+[[redirects]]
+from = "/agenda/2024-12-13-les-entretiens-de-communication-publique-2024/"
+to = "/agenda/2024/les-entretiens-de-communication-publique-2024/"
+
+[[redirects]]
+from = "/equipe/emilie-prade/"
+to = "/personnes/emilie-prade/"
+
+[[redirects]]
+from = "/agenda/2025/guide-des-relations-medias-responsables-2025/"
+to = "/agenda/2025/medias-osons-la-confiance/"
+
+[[redirects]]
+from = "/equipe/stephane-boumendil/"
+to = "/personnes/stephane-boumendil/"
+
+[[redirects]]
+from = "/agenda/2024-06-07-le-chaud-et-le-froid-avec-laure-salvaing-1/"
+to = "/agenda/2024/le-chaud-et-le-froid-avec-laure-salvaing-1/"
+
+[[redirects]]
+from = "/equipe/robert-zarader/"
+to = "/personnes/robert-zarader/"
+
+[[redirects]]
+from = "/toutes-les-publications/"
+to = "/ressources/publications/"
+
+[[redirects]]
+from = "/agenda/2023-09-15-lecriture-inclusive-et-si-on-sy-mettait/"
+to = "/agenda/2023/lecriture-inclusive-et-si-on-sy-mettait/"
+
+[[redirects]]
+from = "/ressources/conseils-de-lecture-1/"
+to = "/ressources/conseils-de-lecture/"
+
+[[redirects]]
+from = "/agenda/2023-12-01-assemblee-generale-2023/"
+to = "/agenda/2023/assemblee-generale-2023/"
+
+[[redirects]]
+from = "/ressources/toutes-les-publications/actualite/"
+to = "/ressources/publications/actualite/"
+
+[[redirects]]
+from = "/equipe/raphael-haddad/"
+to = "/personnes/raphael-haddad/"
+
+[[redirects]]
+from = "/agenda/2024-01-11-infox-comment-les-contrer-efficacement/"
+to = "/agenda/2024/infox-comment-les-contrer-efficacement/"
+
+[[redirects]]
+from = "/ressources/offre-demploi/"
+to = "/ressources/publications/offre-demploi/"
+
+[[redirects]]
+from = "/equipe/categories/club-des-partenaires/"
+to = "/personnes/categories/communication-publique/club-des-partenaires/"
+
+[[redirects]]
+from = "/equipe/armelle-tanvez/"
+to = "/personnes/armelle-tanvez/"
+
+[[redirects]]
+from = "/equipe/mathieu-schneider/"
+to = "/personnes/mathieu-schneider/"
+
+[[redirects]]
+from = "/personnes/categories/auteur/"
+to = "/personnes/categories/parole-publique/auteur/"
+
+[[redirects]]
+from = "/equipe/david-djaiz/"
+to = "/personnes/david-djaiz/"
+
+[[redirects]]
+from = "/ressources/veille/"
+to = "/ressources/publications/veille/"
+
+[[redirects]]
+from = "/agenda/2025-03-07-le-chaud-et-le-froid-avec-samuel-jequier-2-1/"
+to = "/agenda/2025/le-chaud-et-le-froid-avec-samuel-jequier-2-1/"
+
+[[redirects]]
+from = "/ressources/publications/2025-01-24-retour-sur-la-matinale-lenvie-un-levier-pour-la-communication-publique-1/"
+to = "/ressources/publications/2025-02-07-la-confiance-des-francais-dans-les-medias/"
+
+[[redirects]]
+from = "/ressources/publications/2025-09-04-journees-europeennes-du-patrimoine-2025/"
+to = "/ressources/publications/2025-09-05-journees-europeennes-du-patrimoine-2025/"
+
+[[redirects]]
+from = "/personnes/categories/communication-publique/gouvernance/bureau/"
+to = "/personnes/categories/communication-publique/bureau/"
+
+[[redirects]]
+from = "/equipe/guillaume-caline/"
+to = "/personnes/guillaume-caline/"
+
+[[redirects]]
+from = "/equipe/benedicte-fauvarque-cosson/"
+to = "/personnes/benedicte-fauvarque-cosson/"
+
+[[redirects]]
+from = "/projets/"
+to = "/ressources/conseils-de-lecture/"
+
+[[redirects]]
+from = "/equipe/pascale-barillot/"
+to = "/personnes/pascale-barillot/"
+
+[[redirects]]
+from = "/agenda/2025/les-ia-sont-les-nouveaux-leaders-dopinion-1/"
+to = "/agenda/2026/matinale-avec-fabrice-valmier/"
+
+[[redirects]]
+from = "/ressources/toutes-les-publications/publications/"
+to = "/ressources/publications/publications/"
+
+[[redirects]]
+from = "/agenda/2025-01-17-barometre-epiceum-harris-interactive-de-la-communication-locale/"
+to = "/agenda/2025/barometre-epiceum-harris-interactive-de-la-communication-locale/"
+
+[[redirects]]
+from = "/equipe/michael-nathan/"
+to = "/personnes/michael-nathan/"
+
+[[redirects]]
+from = "/equipe/raphael-llorca/"
+to = "/personnes/raphael-llorca/"
+
+[[redirects]]
+from = "/equipe/didier-pourquery/"
+to = "/personnes/didier-pourquery/"
+
+[[redirects]]
+from = "/equipe/gwladys-hure/"
+to = "/personnes/gwladys-hure/"
+
+[[redirects]]
+from = "/equipe/"
+to = "/personnes/"
+
+[[redirects]]
+from = "/agenda/2024-06-28-mediascopie-dun-pays/"
+to = "/agenda/2024/mediascopie-dun-pays/"
+
+[[redirects]]
+from = "/ressources/toutes-les-publications/veille/"
+to = "/ressources/publications/veille/"
+
+[[redirects]]
+from = "/agenda/2025/le-chaud-et-le-froid-avec-emmanuel-riviere-3-1-1/"
+to = "/agenda/2026/le-chaud-et-le-froid-avec-emmanuel-riviere/"
+
+[[redirects]]
+from = "/equipe/categories/intervenant/"
+to = "/personnes/categories/communication-publique/intervenant/"
+
+[[redirects]]
+from = "/ressources/publications/2025-06-20-parole-publique-la-serie-n-1/"
+to = "/ressources/publications/2025-06-20-parole-publique-la-serie-episode-1/"
+
+[[redirects]]
+from = "/equipe/alain-cariou/"
+to = "/personnes/alain-cariou/"
+
+[[redirects]]
+from = "/equipe/alexis-chol/"
+to = "/personnes/alexis-chol/"
+
+[[redirects]]
+from = "/equipe/corinne-le-ny-gigon/"
+to = "/personnes/corinne-le-ny-gigon/"
+
+[[redirects]]
+from = "/agenda/2023-07-11-premiersreflexes-la-campagne-de-lutte-contre-le-harcelement-sexuel-de-la-ratp/"
+to = "/agenda/2023/premiersreflexes-la-campagne-de-lutte-contre-le-harcelement-sexuel-de-la-ratp/"
+
+[[redirects]]
+from = "/ressources/2024-07-04-notre-partie-de-jardin/"
+to = "/ressources/publications/2024-07-04-notre-partie-de-jardin/"
+
+[[redirects]]
+from = "/equipe/categories/intervenants/"
+to = "/personnes/categories/communication-publique/intervenant/"
+
+[[redirects]]
+from = "/agenda/2025-04-29-francaises-francais-etc/"
+to = "/agenda/2025/francaises-francais-etc/"
+
+[[redirects]]
+from = "/equipe/frederic-duprat/"
+to = "/personnes/frederic-duprat/"
+
+[[redirects]]
+from = "/equipe/categories/auteurs-parole-publique/"
+to = "/personnes/categories/parole-publique/auteur/"
+
+[[redirects]]
+from = "/agenda/2024-07-04-partie-de-jardin/"
+to = "/agenda/2024/partie-de-jardin/"
+
+[[redirects]]
+from = "/equipe/christian-de-la-gueronniere/"
+to = "/personnes/christian-de-la-gueronniere/"
+
+[[redirects]]
+from = "/agenda/2025-01-10-le-chaud-et-le-froid-avec-raphaelle-ginies/"
+to = "/agenda/2025/le-chaud-et-le-froid-avec-raphaelle-ginies/"
+
+[[redirects]]
+from = "/equipe/bruno-jeudy/"
+to = "/personnes/bruno-jeudy/"
+
+[[redirects]]
+from = "/equipe/frederic-cavazza/"
+to = "/personnes/frederic-cavazza/"
+
+[[redirects]]
+from = "/agenda/2024-10-04-le-chaud-et-le-froid-avec-laure-salvaing/"
+to = "/agenda/2024/le-chaud-et-le-froid-avec-laure-salvaing/"
+
+[[redirects]]
+from = "/ressources/actualite/"
+to = "/ressources/publications/actualite/"
+
+[[redirects]]
+from = "/equipe/xavier-guepet/"
+to = "/personnes/xavier-guepet/"
+
+[[redirects]]
+from = "/agenda/2024-10-04-le-chaud-et-le-froid-avec-laure-salvaing-4/"
+to = "/agenda/2025/le-chaud-et-le-froid-avec-laure-salvaing-4/"
+
+[[redirects]]
+from = "/agenda/2025-02-07-le-chaud-et-le-froid-avec-laure-salvaing-4/"
+to = "/agenda/2025/le-chaud-et-le-froid-avec-laure-salvaing-4/"
+
+[[redirects]]
+from = "/equipe/colette-genin/"
+to = "/personnes/colette-genin/"
+
+[[redirects]]
+from = "/agenda/2024-12-06-le-chaud-et-le-froid-avec-samuel-jequier-2-1/"
+to = "/agenda/2025/le-chaud-et-le-froid-avec-samuel-jequier-2-1/"
+
+[[redirects]]
+from = "/agenda/2023-10-20-leco-conception-web-en-action-guide-pratique-pour-les-communicants-publics/"
+to = "/agenda/2023/leco-conception-web-en-action-guide-pratique-pour-les-communicants-publics/"
+
+[[redirects]]
+from = "/equipe/david-even/"
+to = "/personnes/david-even/"
+
+[[redirects]]
+from = "/agenda/2024-09-13-renforcez-la-voix-des-communicants-publics-sur-linkedin/"
+to = "/agenda/2024/renforcez-la-voix-des-communicants-publics-sur-linkedin/"
+
+[[redirects]]
+from = "/equipe/yvan-boude/"
+to = "/personnes/yvan-boude/"
+
+[[redirects]]
+from = "/lassociation/qui-sommes-nous/"
+to = "/a-propos/qui-sommes-nous/"
+
+[[redirects]]
+from = "/equipe/jacques-moisse/"
+to = "/personnes/jacques-moisse/"
+
+[[redirects]]
+from = "/agenda/2023-12-15-visite-de-lagence-france-presse/"
+to = "/agenda/2023/visite-de-lagence-france-presse/"
+
+[[redirects]]
+from = "/equipe/vincent-giret/"
+to = "/personnes/vincent-giret/"
+
+[[redirects]]
+from = "/agenda/2025/partie-de-jardin-1/"
+to = "/agenda/2026/partie-de-jardin-d-hiver/"
+
+[[redirects]]
+from = "/equipe/yasmine-eva-fares-emery/"
+to = "/personnes/yasmine-eva-fares-emery/"
+
+[[redirects]]
+from = "/agenda/2024-05-16-letude-vcomv-sphere-publique-2024/"
+to = "/agenda/2024/letude-vcomv-sphere-publique-2024/"
+
+[[redirects]]
+from = "/ressources/toutes-les-publications/2024-12-20-retour-en-images-sur-les-entretiens-2024-de-communication-publique/"
+to = "/ressources/publications/2024-12-20-retour-en-images-sur-les-entretiens-2024-de-communication-publique/"
+
+[[redirects]]
+from = "/ouvrages/"
+to = "/ressources/conseils-de-lecture/"
+
+[[redirects]]
+from = "/agenda/2024-09-06-le-chaud-et-le-froid-avec-emmanuel-riviere/"
+to = "/agenda/2024/le-chaud-et-le-froid-avec-emmanuel-riviere/"
+
+[[redirects]]
+from = "/ressources/actualites/"
+to = "/ressources/publications/actualite/"
+
+[[redirects]]
+from = "/agenda/2024-03-29-rendez-vous-avec-yasmine-eva-fares-emery/"
+to = "/agenda/2024/rendez-vous-avec-yasmine-eva-fares-emery/"
+
+[[redirects]]
+from = "/agenda/2024-12-13-assemblee-generale-2024/"
+to = "/agenda/2024/assemblee-generale-2024/"
+
+[[redirects]]
+from = "/ressources/toutes-les-publications/2024-07-04-notre-partie-de-jardin/"
+to = "/ressources/publications/2024-07-04-notre-partie-de-jardin/"
+
+[[redirects]]
+from = "/equipe/francois-leray/"
+to = "/personnes/francois-leray/"
+
+[[redirects]]
+from = "/equipe/maxance-barre/"
+to = "/personnes/maxance-barre/"
+
+[[redirects]]
+from = "/agenda/2024-06-13-la-parole-pour-le-meilleur-et-pour-le-pire/"
+to = "/agenda/2024/la-parole-pour-le-meilleur-et-pour-le-pire/"
+
+[[redirects]]
+from = "/equipe/categories/membre/"
+to = "/personnes/categories/communication-publique/adherent/"
+
+[[redirects]]
+from = "/personnes/categories/adherent/"
+to = "/personnes/categories/communication-publique/adherent/"
+
+[[redirects]]
+from = "/agenda/2023-12-08-le-chaud-et-le-froid-avec-emmanuel-riviere-2/"
+to = "/agenda/2023/le-chaud-et-le-froid-avec-emmanuel-riviere-2/"
+
+[[redirects]]
+from = "/equipe/marie-yanowitz-durand/"
+to = "/personnes/marie-yanowitz-durand/"
+
+[[redirects]]
+from = "/equipe/anne-vigne/"
+to = "/personnes/anne-vigne/"
+
+[[redirects]]
+from = "/equipe/david-petauton/"
+to = "/personnes/david-petauton/"
+
+[[redirects]]
+from = "/equipe/estelle-denize/"
+to = "/personnes/estelle-denize/"
+
+[[redirects]]
+from = "/agenda/2024-02-27-creer-du-lien-avec-les-citoyens/"
+to = "/agenda/2024/creer-du-lien-avec-les-citoyens/"
+
+[[redirects]]
+from = "/equipe/emmanuel-riviere/"
+to = "/personnes/emmanuel-riviere/"
+
+[[redirects]]
+from = "/agenda/2025/le-chaud-et-le-froid-avec-samuel-jequier-2-1-1-1/"
+to = "/agenda/2026/le-chaud-et-le-froid-avec-samuel-jequier/"
+
+[[redirects]]
+from = "/agenda/2024-05-24-panorama-2024-des-reseaux-sociaux/"
+to = "/agenda/2024/panorama-2024-des-reseaux-sociaux/"
+
+[[redirects]]
+from = "/equipe/sandrine-guirado/"
+to = "/personnes/sandrine-guirado/"
+
+[[redirects]]
+from = "/ressources/toutes-les-publications/2025-01-07-parole-publique-n32/"
+to = "/ressources/publications/2025-01-07-parole-publique-n32/"
+
+[[redirects]]
+from = "/equipe/romain-pigenel/"
+to = "/personnes/romain-pigenel/"
+
+[[redirects]]
+from = "/equipe/benjamin-commandre/"
+to = "/personnes/benjamin-commandre/"
+
+[[redirects]]
+from = "/equipe/hugues-pollastro/"
+to = "/personnes/hugues-pollastro/"
+
+[[redirects]]
+from = "/equipe/vincent-de-la-vaissiere/"
+to = "/personnes/vincent-de-la-vaissiere/"
+
+[[redirects]]
+from = "/equipe/fabrice-moreau/"
+to = "/personnes/fabrice-moreau/"
+
+[[redirects]]
+from = "/agenda/2024-01-05-le-chaud-et-le-froid-avec-samuel-jequier-1/"
+to = "/agenda/2024/le-chaud-et-le-froid-avec-samuel-jequier-1/"
+
+[[redirects]]
+from = "/personnes/categories/membre/"
+to = "/personnes/categories/communication-publique/adherent/"
+
+[[redirects]]
+from = "/agenda/2024-11-26-la-guerre-de-linformation-les-etats-a-la-conquete-de-nos-esprits/"
+to = "/agenda/2024/la-guerre-de-linformation-les-etats-a-la-conquete-de-nos-esprits/"
+
+[[redirects]]
+from = "/equipe/damien-ranger-martinez/"
+to = "/personnes/damien-ranger-martinez/"
+
+[[redirects]]
+from = "/equipe/herve-de-lacotte/"
+to = "/personnes/herve-de-lacotte/"
+
+[[redirects]]
+from = "/agenda/2025-03-25-porte-parole/"
+to = "/agenda/2025/porte-parole/"
+
+[[redirects]]
+from = "/agenda/2024-11-08-le-chaud-et-le-froid-avec-herve-brasselet/"
+to = "/agenda/2024/le-chaud-et-le-froid-avec-herve-brasselet/"
+
+[[redirects]]
+from = "/agenda/2024-12-06-le-chaud-et-le-froid-avec-samuel-jequier-2/"
+to = "/agenda/2024/le-chaud-et-le-froid-avec-samuel-jequier-2/"
+
+[[redirects]]
+from = "/agenda/2025/le-chaud-et-le-froid-avec-laure-salvaing-4-1-1/"
+to = "/agenda/2026/le-chaud-et-le-froid-avec-laure-salvaing/"
+
+[[redirects]]
+from = "/agenda/2024-09-25-rendez-vous-a-bord-de-la-peniche-le-rhone/"
+to = "/agenda/2024/rendez-vous-a-bord-de-la-peniche-le-rhone/"
+
+[[redirects]]
+from = "/equipe/mariam-chammat/"
+to = "/personnes/mariam-chammat/"
+
+[[redirects]]
+from = "/personnes/categories/intervenant/"
+to = "/personnes/categories/communication-publique/intervenant/"
+
+[[redirects]]
+from = "/equipe/laurent-riera/"
+to = "/personnes/laurent-riera/"
+
+[[redirects]]
+from = "/equipe/christelle-monteagudo/"
+to = "/personnes/christelle-monteagudo/"
+
+[[redirects]]
+from = "/equipe/catherine-espalioux-fraudeau/"
+to = "/personnes/catherine-espalioux/"
+
+[[redirects]]
+from = "/agenda/2023-11-24-utiliser-lia-au-service-de-notre-metier-de-communicant/"
+to = "/agenda/2023/utiliser-lia-au-service-de-notre-metier-de-communicant/"
+
+[[redirects]]
+from = "/equipe/benjamin-teitgen/"
+to = "/personnes/benjamin-teitgen/"
+
+[[redirects]]
+from = "/agenda/2024-10-17-rencontre-avec-la-redaction-de-la-tribune-dimanche/"
+to = "/agenda/2024/rencontre-avec-la-redaction-de-la-tribune-dimanche/"
+
+[[redirects]]
+from = "/equipe/pierre-alain-douay/"
+to = "/personnes/pierre-alain-douay/"
+
+[[redirects]]
+from = "/agenda/2023-12-01-les-entretiens-de-communication-publique-2023/"
+to = "/agenda/2023/les-entretiens-de-communication-publique-2023/"
+
+[[redirects]]
+from = "/equipe/chloe-morin/"
+to = "/personnes/chloe-morin/"
+
+[[redirects]]
+from = "/agenda/2025-01-14-medias-en-seine/"
+to = "/agenda/2025/medias-en-seine/"
+
+[[redirects]]
+from = "/agenda/2024-07-05-le-chaud-et-le-froid-avec-samuel-jequier/"
+to = "/agenda/2024/le-chaud-et-le-froid-avec-samuel-jequier/"
+
+[[redirects]]
+from = "/agenda/2025/le-chaud-et-le-froid-avec-herve-brasselet-1-1-1-1/"
+to = "/agenda/2026/le-chaud-et-le-froid-avec-herve-brasselet/"
+
+[[redirects]]
+from = "/equipe/anne-descamps/"
+to = "/personnes/anne-descamps/"
+
+[[redirects]]
+from = "/equipe/bertrand-perier/"
+to = "/personnes/bertrand-perier/"
+
+[[redirects]]
+from = "/personnes/categories/auteurs-parole-publique/"
+to = "/personnes/categories/parole-publique/auteur/"
+
+[[redirects]]
+from = "/equipe/sandrine-gaillard/"
+to = "/personnes/sandrine-gaillard/"
+
+[[redirects]]
+from = "/l-association/"
+to = "/a-propos/gouvernance/"
+
+[[redirects]]
+from = "/agenda/2025-02-07-le-chaud-et-le-froid-avec-emmanuel-riviere-3/"
+to = "/agenda/2025/le-chaud-et-le-froid-avec-emmanuel-riviere-3/"
+
+[[redirects]]
+from = "/equipe/david-colon/"
+to = "/personnes/david-colon/"
+
+[[redirects]]
+from = "/equipe/sandrine-charnoz/"
+to = "/personnes/sandrine-charnoz/"
+
+[[redirects]]
+from = "/equipe/christele-fradin/"
+to = "/personnes/christele-fradin/"
+
+[[redirects]]
+from = "/agenda/2025-01-24-lenvie-en-communication-publique/"
+to = "/agenda/2025/lenvie-en-communication-publique/"
+
+[[redirects]]
+from = "/personnes/categories/communication-publique/gouvernance/conseil-dadministration/"
+to = "/personnes/categories/communication-publique/conseil-dadministration/"
+
+[[redirects]]
+from = "/equipe/equipe-editoriale/"
+to = "/personnes/equipe-editoriale/"
+
+[[redirects]]
+from = "/agenda/2023-09-08-le-chaud-et-le-froid-avec-samuel-jequier-3/"
+to = "/agenda/2023/le-chaud-et-le-froid-avec-samuel-jequier-3/"
+
+[[redirects]]
+from = "/equipe/dominique-bessieres/"
+to = "/personnes/dominique-bessieres/"
+
+[[redirects]]
+from = "/equipe/alice-bouteille/"
+to = "/personnes/alice-bouteille/"
+
+[[redirects]]
+from = "/equipe/olivier-costes/"
+to = "/personnes/olivier-costes/"
+
+[[redirects]]
+from = "/equipe/samuel-jequier/"
+to = "/personnes/samuel-jequier/"
+
+[[redirects]]
+from = "/agenda/2024-01-25-la-communication-de-letat/"
+to = "/agenda/2024/la-communication-de-letat/"
+
+[[redirects]]
+from = "/equipe/categories/conseil-dadministration/"
+to = "/personnes/categories/communication-publique/conseil-dadministration/"
+
+[[redirects]]
+from = "/equipe/herve-brasseley/"
+to = "/personnes/herve-brasseley/"
+
+[[redirects]]
+from = "/personnes/categories/club-des-partenaires/"
+to = "/personnes/categories/communication-publique/club-des-partenaires/"
+
+[[redirects]]
+from = "/personnes/catherine-espalioux-fraudeau/"
+to = "/personnes/catherine-espalioux/"
+
+[[redirects]]
+from = "/equipe/carine-delrieu/"
+to = "/personnes/carine-delrieu/"
+
+[[redirects]]
+from = "/agenda/2023-09-22-le-monde-la-conversion-dune-audience-papier-en-audience-digitale/"
+to = "/agenda/2023/le-monde-la-conversion-dune-audience-papier-en-audience-digitale/"
+
+[[redirects]]
+from = "/equipe/christelle-bayon/"
+to = "/personnes/christelle-bayon/"
+
+[[redirects]]
+from = "/agenda/2024-10-26-seminaire/"
+to = "/agenda/2024/rencontre-avec-la-redaction-de-la-tribune-dimanche/"
+
+[[redirects]]
+from = "/agenda/2024-03-01-rendez-vous-au-salon-de-lagriculture/"
+to = "/agenda/2024/rendez-vous-au-salon-de-lagriculture/"
+
+[[redirects]]
+from = "/ressources/publications/2025-01-20-ministeres-sociaux-delegation-a-linformation-et-a-la-communication/"
+to = "/ressources/publications/2025-01-17-ministeres-sociaux-delegation-a-linformation-et-a-la-communication/"
+
+[[redirects]]
+from = "/agenda/2024-03-14-seminaire-des-communicants-de-letat-3eme-edition/"
+to = "/agenda/2024/seminaire-des-communicants-de-letat-3eme-edition/"
+
+[[redirects]]
+from = "/ressources/toutes-les-publications/offre-demploi/"
+to = "/ressources/publications/offre-demploi/"
+
+[[redirects]]
+from = "/equipe/dorothee-roy/"
+to = "/personnes/dorothee-roy/"
+
+[[redirects]]
+from = "/agenda/2024-07-11-le-print-fait-il-de-la-resistance/"
+to = "/agenda/2024/le-print-fait-il-de-la-resistance/"
+
+[[redirects]]
+from = "/lassociation/partenaires/"
+to = "/a-propos/club-des-partenaires/"
+
+[[redirects]]
+from = "/l-association/qui-sommes-nous/"
+to = "/a-propos/qui-sommes-nous/"
+
+[[redirects]]
+from = "/equipe/matthieu-bejot/"
+to = "/personnes/matthieu-bejot/"
+
+[[redirects]]
+from = "/equipe/categories/membres/"
+to = "/personnes/categories/communication-publique/adherent/"
+
+[[redirects]]
+from = "/agenda/2024-03-08-le-chaud-et-le-froid-avec-david-djaiz/"
+to = "/agenda/2024/le-chaud-et-le-froid-avec-david-djaiz/"
+
+[[redirects]]
+from = "/equipe/aurelie-martzel/"
+to = "/personnes/aurelie-martzel/"
+
+[[redirects]]
+from = "/ressources/2024-10-15-notre-partie-de-jardin/"
+to = "/ressources/publications/2024-07-04-notre-partie-de-jardin/"
+
+[[redirects]]
+from = "/l-association/partenaires/"
+to = "/a-propos/club-des-partenaires/"
+
+[[redirects]]
+from = "/equipe/david-chavalarias/"
+to = "/personnes/david-chavalarias/"
+
+[[redirects]]
+from = "/equipe/elisabeth-sawicki/"
+to = "/personnes/elisabeth-sawicki/"
+
+[[redirects]]
+from = "/agenda/2024-11-19-innover-pour-toucher-les-jeunes-strategies-digitales-et-actions-de-proximite/"
+to = "/agenda/2024/innover-pour-toucher-les-jeunes-strategies-digitales-et-actions-de-proximite/"
+
+[[redirects]]
+from = "/personnes/categories/gouvernance/conseil-dadministration/"
+to = "/personnes/categories/communication-publique/conseil-dadministration/"
+
+[[redirects]]
+from = "/agenda/2024-02-02-le-chaud-et-le-froid-avec-laure-salvaing-2/"
+to = "/agenda/2024/le-chaud-et-le-froid-avec-laure-salvaing-2/"
+
+[[redirects]]
+from = "/equipe/charlotte-bricard/"
+to = "/personnes/charlotte-bricard/"
+
+[[redirects]]
+from = "/agenda/2024-10-09-quels-leviers-pour-faire-changer-les-comportements/"
+to = "/agenda/2024/quels-leviers-pour-faire-changer-les-comportements/"
+
+[[redirects]]
+from = "/agenda/2025-02-13-rencontre-avec-la-redaction-du-parisien/"
+to = "/agenda/2025/rencontre-avec-la-redaction-du-parisien/"
+
+[[redirects]]
+from = "/equipe/nancy-canoves-fuster/"
+to = "/personnes/nancy-canoves-fuster/"
+
+[[redirects]]
+from = "/agenda/2023-11-10-le-chaud-et-le-froid-avec-laure-salvaing-3/"
+to = "/agenda/2023/le-chaud-et-le-froid-avec-laure-salvaing-3/"
+
+[[redirects]]
+from = "/equipe/cyrille-boitel/"
+to = "/personnes/cyrille-boitel/"
+
+[[redirects]]
+from = "/agenda/2023-06-28-mediascopie-dun-pays/"
+to = "/agenda/2024/mediascopie-dun-pays/"
+
+[[redirects]]
+from = "/ressources/2024-12-26-parole-publique-n31/"
+to = "/ressources/publications/2025-01-07-parole-publique-n32/"
+
+[[redirects]]
+from = "/equipe/anais-lancon/"
+to = "/personnes/anais-lancon/"
+
+[[redirects]]
+from = "/lassociation/"
+to = "/a-propos/"
+
+[[redirects]]
+from = "/agenda/2024-05-03-le-chaud-et-le-froid-avec-herve-brasselet-1/"
+to = "/agenda/2024/le-chaud-et-le-froid-avec-herve-brasselet-1/"
+
+[[redirects]]
+from = "/ressources/toutes-les-publications/2024-12-26-parole-publique-n31/"
+to = "/ressources/publications/2025-01-07-parole-publique-n32/"
+
+[[redirects]]
+from = "/agenda/2025-02-14-20-ans-de-la-loi-pour-legalite-des-droits-et-des-chances/"
+to = "/agenda/2025/20-ans-de-la-loi-pour-legalite-des-droits-et-des-chances/"
+
+[[redirects]]
+from = "/agenda/2024-04-05-le-chaud-et-le-froid-avec-emmanuel-riviere-1/"
+to = "/agenda/2024/le-chaud-et-le-froid-avec-emmanuel-riviere-1/"
+
+[[redirects]]
+from = "/agenda/2024-03-21-a-quoi-ressemblera-la-france-quand-mon-fils-aura-vingt-ans/"
+to = "/agenda/2024/a-quoi-ressemblera-la-france-quand-mon-fils-aura-vingt-ans/"
+
+[[redirects]]
+from = "/actualites/2024-10-15-retour-en-images-de-notre-partie-de-jardin/"
+to = "/ressources/publications/2024-07-04-notre-partie-de-jardin/"
+
+[[redirects]]
+from = "/agenda/2025-03-14-maprimrenov-une-opportunite-de-transformation-de-la-communication-de-lanah/"
+to = "/agenda/2025/maprimrenov-une-opportunite-de-transformation-de-la-communication-de-lanah/"
+
+[[redirects]]
+from = "/equipe/marion-renault/"
+to = "/personnes/marion-renault/"
+
+[[redirects]]
+from = "/agenda/2023-09-27-la-communication-de-letat-1/"
+to = "/agenda/2023/la-communication-de-letat-1/"
+
+[[redirects]]
+from = "/ressources/ouvrages/"
+to = "/ressources/conseils-de-lecture/"
+
