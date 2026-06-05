@@ -479,6 +479,10 @@ from = "/personnes/categories/membre/index.html"
 to = "/personnes/categories/communication-publique/adherent/"
 
 [[redirects]]
+from = "/ressources/publications/2026-04-03-le-chaud-et-le-froid-avec-laure-salvaing-1/index.html"
+to = "/ressources/publications/2026-06-05-le-chaud-et-le-froid-avec-herve-brasselet/"
+
+[[redirects]]
 from = "/agenda/2024-11-26-la-guerre-de-linformation-les-etats-a-la-conquete-de-nos-esprits/index.html"
 to = "/agenda/2024/la-guerre-de-linformation-les-etats-a-la-conquete-de-nos-esprits/"
 
