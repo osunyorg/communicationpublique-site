@@ -67,6 +67,10 @@ from = "/equipe/christopher-baldelli/index.html"
 to = "/personnes/christopher-baldelli/"
 
 [[redirects]]
+from = "/agenda/2025/le-chaud-et-le-froid-avec-raphaelle-ginies-1-1/index.html"
+to = "/agenda/2026/le-chaud-et-le-froid-avec-raphaelle-ginies/"
+
+[[redirects]]
 from = "/agenda/2024-12-13-les-entretiens-de-communication-publique-2024/index.html"
 to = "/agenda/2024/les-entretiens-de-communication-publique-2024/"
 
@@ -489,6 +493,10 @@ to = "/agenda/2024/la-guerre-de-linformation-les-etats-a-la-conquete-de-nos-espr
 [[redirects]]
 from = "/equipe/damien-ranger-martinez/index.html"
 to = "/personnes/damien-ranger-martinez/"
+
+[[redirects]]
+from = "/agenda/2026/le-chaud-et-le-froid-avec-raphaelle-ginies-1-1/index.html"
+to = "/agenda/2026/le-chaud-et-le-froid-avec-raphaelle-ginies/"
 
 [[redirects]]
 from = "/equipe/herve-de-lacotte/index.html"
