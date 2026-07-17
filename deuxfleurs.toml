@@ -47,6 +47,10 @@ from = "/equipe/fabrice-hermel/index.html"
 to = "/personnes/fabrice-hermel/"
 
 [[redirects]]
+from = "/organisations/ministere-de-leconomie-des-finances-et-de-lindustrie-charge-du-budget-et-des-comptes-publics/index.html"
+to = "/organisations/ministere-de-l-economie-des-finances-et-de-la-souverainete-industrielle-et-numerique/"
+
+[[redirects]]
 from = "/lassociation/l-association/index.html"
 to = "/a-propos/gouvernance/"
 
@@ -113,6 +117,10 @@ to = "/agenda/2023/assemblee-generale-2023/"
 [[redirects]]
 from = "/ressources/toutes-les-publications/actualite/index.html"
 to = "/ressources/publications/actualite/"
+
+[[redirects]]
+from = "/organisations/ministeres-territoires-ecologie-logement/index.html"
+to = "/organisations/ministeres-transition-ecologique-amenagement-du-territoire-transports-ville-et-logement/"
 
 [[redirects]]
 from = "/equipe/raphael-haddad/index.html"
@@ -657,6 +665,10 @@ to = "/personnes/categories/communication-publique/conseil-dadministration/"
 [[redirects]]
 from = "/equipe/herve-brasseley/index.html"
 to = "/personnes/herve-brasseley/"
+
+[[redirects]]
+from = "/organisations/ministere-des-solidarites-de-lautonomie-et-de-legalite-entre-les-femmes-et-les-hommes/index.html"
+to = "/organisations/ministere-de-la-sante-des-familles-de-l-autonomie-et-des-personnes-handicapees/"
 
 [[redirects]]
 from = "/personnes/categories/club-des-partenaires/index.html"
