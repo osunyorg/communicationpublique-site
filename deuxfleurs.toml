@@ -72,7 +72,7 @@ to = "/personnes/christopher-baldelli/"
 
 [[redirects]]
 from = "/agenda/2025/le-chaud-et-le-froid-avec-raphaelle-ginies-1-1/index.html"
-to = "/agenda/2026/le-chaud-et-le-froid-avec-raphaelle-ginies/"
+to = "/agenda/2026/le-chaud-et-le-froid-avec-raphael-haddad/"
 
 [[redirects]]
 from = "/agenda/2024-12-13-les-entretiens-de-communication-publique-2024/index.html"
@@ -504,7 +504,7 @@ to = "/personnes/damien-ranger-martinez/"
 
 [[redirects]]
 from = "/agenda/2026/le-chaud-et-le-froid-avec-raphaelle-ginies-1-1/index.html"
-to = "/agenda/2026/le-chaud-et-le-froid-avec-raphaelle-ginies/"
+to = "/agenda/2026/le-chaud-et-le-froid-avec-raphael-haddad/"
 
 [[redirects]]
 from = "/equipe/herve-de-lacotte/index.html"
@@ -537,6 +537,10 @@ to = "/personnes/mariam-chammat/"
 [[redirects]]
 from = "/personnes/categories/intervenant/index.html"
 to = "/personnes/categories/communication-publique/intervenant/"
+
+[[redirects]]
+from = "/agenda/2026/le-chaud-et-le-froid-avec-raphaelle-ginies/index.html"
+to = "/agenda/2026/le-chaud-et-le-froid-avec-raphael-haddad/"
 
 [[redirects]]
 from = "/equipe/laurent-riera/index.html"
