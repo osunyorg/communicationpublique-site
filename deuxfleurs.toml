@@ -371,6 +371,10 @@ from = "/agenda/2024-05-16-letude-vcomv-sphere-publique-2024/index.html"
 to = "/agenda/2024/letude-vcomv-sphere-publique-2024/"
 
 [[redirects]]
+from = "/agenda/2026/sobriete-editoriale/index.html"
+to = "/agenda/2026/masterclass-sobriete-editoriale/"
+
+[[redirects]]
 from = "/ressources/toutes-les-publications/2024-12-20-retour-en-images-sur-les-entretiens-2024-de-communication-publique/index.html"
 to = "/ressources/publications/2024-12-20-retour-en-images-sur-les-entretiens-2024-de-communication-publique/"
 
