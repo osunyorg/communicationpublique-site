@@ -227,6 +227,10 @@ from = "/agenda/2024-06-28-mediascopie-dun-pays/index.html"
 to = "/agenda/2024/mediascopie-dun-pays/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/tribune-les-echos-2025-02-24-sans-photopdf/"
+
+[[redirects]]
 from = "/ressources/toutes-les-publications/veille/index.html"
 to = "/ressources/publications/veille/"
 
