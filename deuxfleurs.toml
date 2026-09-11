@@ -659,6 +659,10 @@ from = "/equipe/alice-bouteille/index.html"
 to = "/personnes/alice-bouteille/"
 
 [[redirects]]
+from = "/agenda/2026/rencontre-avec-la-redaction-du-figaro-1/index.html"
+to = "/agenda/2026/rencontre-avec-la-redaction-de-rtl/"
+
+[[redirects]]
 from = "/equipe/olivier-costes/index.html"
 to = "/personnes/olivier-costes/"
 
