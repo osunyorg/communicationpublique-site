@@ -27,7 +27,7 @@ search:
   summary: >-
     <p>Avec Jimmy Brun, directeur de la communication et porte-parole du groupe RATP et Camille Chaize, cheffe du service de la communication du ministère de l'Économie et des Finances et auteure de <i>Porte-parole </i>(éditions Novice)      </p>
   body: >-
-    <p>  <br>Communication <br>publique lance son Club presse, dédié aux communicants dont les relations <br>presse sont le cœur de métier. Il a pour ambition de proposer des rendez-vous <br>centrés sur leurs préoccupations, mais aussi de les mettre en réseau : <br>apprendre à se connaître, échanger sur les bonnes pratiques, accéder à des <br>contacts utiles à leur activité. Cette <br>matinée en marque le lancement officiel : le club sera présenté en début de <br>rencontre. Elle sera ensuite consacrée à la fonction de porte-parole. Porter la <br>parole d'une organisation devant les médias est une fonction exposée, qui <br>engage sa crédibilité. Jimmy Brun et <br>Camille Chaize apporteront leur éclairage sur cette fonction. Ce rendez-vous est réservé aux adhérents en charge des <br>relations avec la presse.</p>
+      <p>Inscription <br>https://www.eventbrite.fr/e/2003508465754?aff=oddtdtcreator</p>  <p>   <br>Communication <br>publique lance son Club presse, dédié aux communicants dont les relations <br>presse sont le cœur de métier. Il a pour ambition de proposer des rendez-vous <br>centrés sur leurs préoccupations, mais aussi de les mettre en réseau : <br>apprendre à se connaître, échanger sur les bonnes pratiques, accéder à des <br>contacts utiles à leur activité. Cette <br>matinée en marque le lancement officiel : le club sera présenté en début de <br>rencontre. Elle sera ensuite consacrée à la fonction de porte-parole. Porter la <br>parole d'une organisation devant les médias est une fonction exposée, qui <br>engage sa crédibilité. Jimmy Brun et <br>Camille Chaize apporteront leur éclairage sur cette fonction. Ce rendez-vous est réservé aux adhérents en charge des <br>relations avec la presse.</p>
 
 date: "2026-11-27T09:30:00+01:00"
 dates:
@@ -141,10 +141,31 @@ meta_description: >-
 header_cta:
 
 contents_reading_time:
-  seconds: 33
+  seconds: 36
   text: >-
     1 minute
 contents:
+  - kind: block
+    template: call_to_action
+
+
+    ranks:
+      base: 2
+    top:
+      active: false
+
+    data:
+      layout: accent_background
+
+      buttons:
+        - 
+          title: >-
+            Inscription
+          url: >-
+            https://www.eventbrite.fr/e/2003508465754?aff=oddtdtcreator
+          target_blank: true
+
+
   - kind: block
     template: chapter
 
@@ -162,18 +183,36 @@ contents:
 
 
   - kind: block
-    template: call_to_action
+    template: persons
 
 
     ranks:
       base: 2
+      children: 2
     top:
       active: false
 
     data:
-      layout: accent_background
 
-      buttons:
+      layout: grid
+      options:
+        image: true
+        summary: true
+        link: true
+        contact: false
+
+      persons:
+        - permalink: "/personnes/jimmy-brun/"
+          path: "/persons/jimmy-brun"
+          slug: "jimmy-brun"
+          file: "content/fr/persons/jimmy-brun.html"
+
+        - permalink: "/personnes/camille-chaize/"
+          path: "/persons/camille-chaize"
+          slug: "camille-chaize"
+          file: "content/fr/persons/camille-chaize.html"
+
+      quantity: 2
 
 
 
