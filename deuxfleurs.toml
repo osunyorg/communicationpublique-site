@@ -307,6 +307,10 @@ from = "/agenda/2024-10-04-le-chaud-et-le-froid-avec-laure-salvaing/index.html"
 to = "/agenda/2024/le-chaud-et-le-froid-avec-laure-salvaing/"
 
 [[redirects]]
+from = "/ressources/publications/2023-11-06-test-ca/index.html"
+to = "/ressources/publications/2023-11-06-candidatures-au-conseil-dadministration/"
+
+[[redirects]]
 from = "/ressources/actualite/index.html"
 to = "/ressources/publications/actualite/"
 
